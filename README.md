@@ -1,6 +1,6 @@
 # sqliteClasses
 
-[![Build Status][TravisBadge]][TravisLink] [![CocoaPods Version][CocoaPodsVersionBadge]][CocoaPodsVersionLink] [![Swift4 compatible][Swift4Badge]][Swift4Link] [![Platform][PlatformBadge]][PlatformLink] [![Carthage compatible][CartagheBadge]][CarthageLink] [![Join the chat at https://gitter.im/osoftz_iOS/sqliteClasses][GitterBadge]][GitterLink]
+[![Build Status][TravisBadge]][TravisLink] [![CocoaPods Version][CocoaPodsVersionBadge]][CocoaPodsVersionLink] [![Swift4 compatible][Swift4Badge]][Swift4Link] [![Platform][PlatformBadge]][PlatformLink] [![Carthage compatible][CartagheBadge]][CarthageLink] [![Gitter](https://badges.gitter.im/Siva_sqliteClasses/community.svg)](https://gitter.im/Siva_sqliteClasses/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 A type-safe, [Swift][]-language layer over [SQLite3][].
 
@@ -199,7 +199,7 @@ Swift code.
 
   ```swift
   dependencies: [
-      .package(url: "https://github.com/osoftz/sqliteClasses.git", from: "1.0.7")
+      .package(url: "https://github.com/sivanagarajan18/sqliteClasses.git", from: "1.0.1")
   ]
   ```
 
@@ -257,8 +257,8 @@ device:
 [See the planning document]: /Documentation/Planning.md
 [Read the contributing guidelines]: ./CONTRIBUTING.md#contributing
 [Ask on Stack Overflow]: http://stackoverflow.com/questions/tagged/sqlite.swift
-[Open an issue]: https://github.com/osoftz/sqliteClasses/issues/new
-[Submit a pull request]: https://github.com/osoftz/sqliteClasses/fork
+[Open an issue]: https://github.com/sivanagarajan18/sqliteClasses/issues/new
+[Submit a pull request]: https://github.com/sivanagarajan18/sqliteClasses/fork
 
 
 ## Author
@@ -292,9 +292,9 @@ Looking for something else? Try another Swift wrapper (or [FMDB][]):
 
 [Swift]: https://swift.org/
 [SQLite3]: http://www.sqlite.org
-[sqliteClasses]: https://github.com/osoftz/sqliteClasses
+[sqliteClasses]: https://github.com/sivanagarajan18/sqliteClasses
 
-[TravisBadge]: https://img.shields.io/travis/osoftz/sqliteClasses.svg?branch=master
+[TravisBadge]: https://img.shields.io/travis/sivanagarajan18/sqliteClasses.svg?branch=master
 [TravisLink]: https://travis-ci.org/
 
 [CocoaPodsVersionBadge]: https://cocoapod-badges.herokuapp.com/v/sqliteClasses/badge.png
@@ -306,7 +306,7 @@ Looking for something else? Try another Swift wrapper (or [FMDB][]):
 [CartagheBadge]: https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat
 [CarthageLink]: https://github.com/Carthage/Carthage
 
-[GitterBadge]: https://gitter.im/osoftz_iOS/sqliteClasses
+[GitterBadge]: https://gitter.im/Siva_sqliteClasses
 [GitterLink]: https://gitter.im/osoftz_iOS
 
 [Swift4Badge]: https://img.shields.io/badge/swift-4.1-orange.svg?style=flat
