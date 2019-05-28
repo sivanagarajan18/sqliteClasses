@@ -263,7 +263,7 @@ device:
 
 ## Author
 
- - [Osoftz(mailto:ios@osoftz.com)
+ - [Osoftz(mailto:sivanagarajan18@gmail.com)
 
 
 ## License
