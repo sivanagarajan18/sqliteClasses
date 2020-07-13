@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "sqliteClass"
+  s.name         = "sqliteClasses"
   s.version      = "1.2.5"
   s.summary      = "Framework to utilize the SQLite with simple methods"
 

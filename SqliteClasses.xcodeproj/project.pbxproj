@@ -116,7 +116,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1010;
 				LastUpgradeCheck = 1010;
-				ORGANIZATIONNAME = osoftz;
+				ORGANIZATIONNAME = Siva;
 				TargetAttributes = {
 					C99E330C219FF07200BF6EB6 = {
 						CreatedOnToolsVersion = 10.0;
@@ -124,7 +124,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C99E3307219FF07200BF6EB6 /* Build configuration list for PBXProject "sqliteClasees" */;
+			buildConfigurationList = C99E3307219FF07200BF6EB6 /* Build configuration list for PBXProject "SqliteClasses" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -368,7 +368,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C99E3307219FF07200BF6EB6 /* Build configuration list for PBXProject "sqliteClasees" */ = {
+		C99E3307219FF07200BF6EB6 /* Build configuration list for PBXProject "SqliteClasses" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C99E3313219FF07200BF6EB6 /* Debug */,
