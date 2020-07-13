@@ -1,5 +1,5 @@
 #
-#  Be sure to run `pod spec lint sqliteClasses.podspec' to ensure this is a
+#  Be sure to run `pod spec lint sqliteClass.podspec' to ensure this is a
 #  valid spec and to remove all comments including this before submitting the spec.
 #
 #  To learn more about Podspec attributes see http://docs.cocoapods.org/specification.html
@@ -15,8 +15,8 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "sqliteClasses"
-  s.version      = "1.2.4"
+  s.name         = "sqliteClass"
+  s.version      = "1.2.5"
   s.summary      = "Framework to utilize the SQLite with simple methods"
 
   # This description is used to generate tags and improve search results.
@@ -25,10 +25,10 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-	sqliteClasses to utilize the SQLite with simple methods
+	sqliteClass to utilize the SQLite with simple methods
 		DESC
 
-  s.homepage     = "http://osoftz.com"
+  s.homepage     = "http://wissend.com"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -53,9 +53,9 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "osoftz" => "support@osoftz.com" }
-  # Or just: s.author    = "osoftz"
-  # s.authors            = { "osoftz" => "support@osoftz.com" }
+  s.author             = { "Siva" => "sivanagarajan18@gmail.com" }
+  # Or just: s.author    = "Siva"
+  # s.authors            = { "Siva" => "sivanagarajan18@gmail.com" }
   # s.social_media_url   = "http://twitter.com/osoftz"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -81,7 +81,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = {:git =>'https://github.com/osoftz/sqliteClasses.git',  :branch => "master"}
+  s.source       = {:git =>'https://github.com/sivanagarajan18/sqliteClasses',  :branch => "master"}
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
